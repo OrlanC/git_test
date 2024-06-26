@@ -1,7 +1,7 @@
 ---
 layout: page
 title: simple site
-tagline: Easy websites with GitHub Pages
+tagline: Complicated website
 description: Minimal tutorial on making a simple website with GitHub Pages
 ---
 
@@ -15,6 +15,7 @@ For me, the painful aspects of making a website are
 - Working with html and css
 - Finding a hosting site
 - Transferring stuff to the hosting site
+- Love is in the air
 
 With [GitHub Pages](https://pages.github.com), you just write things in
 [Markdown](https://daringfireball.net/projects/markdown/),
